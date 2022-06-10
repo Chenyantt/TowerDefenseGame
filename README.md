@@ -13,3 +13,9 @@ qt 5.15.1 + VisualStudio 2019
 ## 运行时截图
 
 ![image](shot1.png)
+![image](shot2.png)
+![image](shot3.png)
+![image](shot4.png)
+![image](shot5.png)
+![image](shot6.png)
+![image](shot7.png)
