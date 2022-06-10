@@ -12,4 +12,4 @@ qt 5.15.1 + VisualStudio 2019
 
 ## 运行时截图
 
-![] (https://github.com/Chenyantt/TowerDefenseGame/master/shot1.png)  
+![] (https://github.com/Chenyantt/TowerDefenseGame/raw/master/shot1.png)  
